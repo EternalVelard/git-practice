@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <title>Git Practice</title>
-</head>
-<body>
-    <h1>Учебный проект по Git</h1>
-    <p>Это первая версия HTML-страницы.</p>
-</body>
-</html>
+﻿# Учебный проект по Git
+Студент: Чечетко Владислав Владимирович
+Группа: P4122
